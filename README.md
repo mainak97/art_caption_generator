@@ -20,6 +20,3 @@ BLIP-2 already understands images.
 The problem is *how it speaks about them*.
 
 This repo uses **LoRA (Low-Rank Adaptation)** to bias the language model toward artistic expression without retraining vision.
-
-## Architecture
-
